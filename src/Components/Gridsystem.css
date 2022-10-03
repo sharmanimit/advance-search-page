@@ -1,0 +1,28 @@
+.wholegrid {
+  background-color: #e2e6e8;
+}
+.daterangepicker-control-section {
+  max-width: 200px;
+
+  padding-top: 5px;
+  margin-left: 10px;
+  position: relative;
+}
+.daterangepicker-control-pane {
+  background-color: white;
+  position: absolute;
+}
+.control-section {
+  background-color: white;
+}
+
+.Date_field{
+    width: 100%;
+    justify-content: space-between !important;
+    /* display: flex; */
+}
+.content{
+  /* display: flex; */
+  justify-content: center !important;
+
+}
